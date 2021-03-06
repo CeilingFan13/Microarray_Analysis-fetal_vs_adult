@@ -1,0 +1,17 @@
+---
+title: "microarray_analysis"
+author: "Shuang Fan"
+date: "3/6/2021"
+output: 
+  md_document:
+    variant: gfm
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    dev: 'svg'
+---
+
+```{R, code=readLines("microarray_analysis.R"), echo=TRUE, eval=TRUE, warning = FALSE, message = FALSE}
+```
+
